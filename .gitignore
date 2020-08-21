@@ -1,0 +1,9 @@
+__history
+.cbproj.local
+.res
+*.#*
+*.exe
+*.map
+*.obj
+*.pch
+*.tds

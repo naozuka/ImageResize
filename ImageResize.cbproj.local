@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/20 14:32:28.000.647,=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/20 14:54:18.000.686,C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Unit1.h=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\Unit1.h</Transaction>
+    <Transaction>2020/08/20 14:54:18.000.686,C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\Unit1.dfm</Transaction>
+    <Transaction>2020/08/20 14:54:18.000.686,C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\Unit1.cpp</Transaction>
+    <Transaction>2020/08/20 14:54:24.000.942,C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\ImageResize.cbproj</Transaction>
+    <Transaction>2020/08/20 21:46:37.000.908,C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\UMain.dfm=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\Unit1.dfm</Transaction>
+    <Transaction>2020/08/20 21:46:37.000.908,C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\UMain.cpp=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\Unit1.cpp</Transaction>
+    <Transaction>2020/08/20 21:46:37.000.908,C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\UMain.h=C:\Users\MMNAOZUKA\Documents\RAD Studio\Projects\Cpp\Desktop\ImageResize\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
